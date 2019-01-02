@@ -1,0 +1,14 @@
+{
+  "name": "html-exmail-obfuscate",
+  "version": "0.0.1",
+  "description": "Obfuscated HTML email addresses that look normal, inspired by the perl Module HTML::Email::Obfuscate",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Patrick Grämer",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
